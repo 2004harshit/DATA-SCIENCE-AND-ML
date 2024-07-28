@@ -1,0 +1,4 @@
+1,butter,30,0
+2,5 Star,10,0
+3,Ice-Cream,20,50
+4,Dairy Milk,15,80
